@@ -1,0 +1,8 @@
+.solar-system {
+  display: flex;
+  flex-direction: column;
+}
+
+.planets {
+  display: flex;
+}

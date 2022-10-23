@@ -1,0 +1,10 @@
+.missions {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 30px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.9);
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 40px;
+  padding: 42px 23px 39px 43px;
+  width: 85%;
+}
